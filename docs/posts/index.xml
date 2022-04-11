@@ -16,5 +16,14 @@
       <description>La cultura en el dasarrollo de software se basa a mi parecer en -Aprendizaje continuo -Trabajo en equipo de dasarrollo -Comunicacion -Respeto</description>
     </item>
     
+    <item>
+      <title>Ruta de aprendizaje</title>
+      <link>https://drojann.xyz/my_blog/posts/post_1/</link>
+      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://drojann.xyz/my_blog/posts/post_1/</guid>
+      <description>En el camino hemos visto -Logica de programacion -Python -Jupyter Notebook -HTML -CSS -JS -Node js</description>
+    </item>
+    
   </channel>
 </rss>
